@@ -1,4 +1,6 @@
-# # CI/CD Repository
+# CI/CD Repository
+
+[![Actions Status](https://github.com/akox45/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/<akox45>/cicd/actions)
 
 Ez a repository a **Continuous Integration** és **Continuous Deployment** folyamatok automatizálására szolgál.
 
